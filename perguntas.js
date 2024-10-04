@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'quem é michel diecsom?',
+    'o git hub é usado para?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'Geografia',
-    'quantos geladinhos vc agunta chupar?',
+    'tem frontera entre dinamarca e canada',
     'A capital da França é Paris'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma casa de fumo?',
+    'oa pontos e virgulas são necesarios em um codigo?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'com quantos paus se faz um morango?',
+    'how many sticks can you make a strawberry?',
     'Oi em ingles é HI (RAI)'
 )
